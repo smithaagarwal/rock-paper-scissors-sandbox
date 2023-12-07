@@ -18,3 +18,7 @@
 
 We highly recommend you taking an attempt at the exercise before viewing the solution though 🙌
 
+Optional extension if anyone fancies it! https://www.instructables.com/How-to-Play-Rock-Paper-Scissors-Lizard-Spock/
+
+![Alt text](image.png)
+
